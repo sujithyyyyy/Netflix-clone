@@ -24,7 +24,7 @@ HTML5
 
 CSS3 (Flexbox, Basic Styling)
 
-📂 Setup Instructions
+**📂 Setup Instructions**
 
 Clone the repository:
 
@@ -36,7 +36,7 @@ cd netflix-clone
 
 Open index.html in a browser.
 
-🎨 Screenshots
+**🎨 Screenshots**
 
 ![image](https://github.com/user-attachments/assets/8ed25c83-f5ee-4ff1-818a-7c1e68097daf)
 
@@ -45,7 +45,8 @@ Open index.html in a browser.
 ![image](https://github.com/user-attachments/assets/884319cc-ad4d-4f11-8f94-86902b1d31a2)
 
 ![image](https://github.com/user-attachments/assets/ad45c1ea-8d73-473a-b7de-6f9c7847d515)
-📌 Upcoming Features
+
+**📌 Upcoming Features**
 
 Responsive design improvements
 
@@ -55,10 +56,10 @@ Dynamic content fetching
 
 Dark mode toggle
 
-🤝 Contributing
+**🤝 Contributing**
 
 Feel free to fork this repository and submit pull requests!
 
-📜 License
+**📜 License**
 
 This project is for educational purposes only and is not affiliated with Netflix.
