@@ -18,7 +18,7 @@ FAQ section with collapsible content
 
 Visit Live Site- sujinetflix.ccbp.tech
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 HTML5
 
