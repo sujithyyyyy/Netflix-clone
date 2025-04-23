@@ -16,7 +16,7 @@ FAQ section with collapsible content
 
 **🚀 Live Demo**
 
-Visit Live Site- sujinetflix.ccbp.tech
+Visit Live Site- [sujinetflix.ccbp.tech](https://sujinetflix.ccbp.tech/)
 
 **🛠 Tech Stack**
 
